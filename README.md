@@ -1,2 +1,6 @@
 # Yeld-Data-Analysis
-Performed data extraction and cleaning on Yelp Dataset to Build a Text Classifier
+
+• Performed data extraction and cleaning on Kaggle- Yelp Dataset to Build a text classifier using Python’s Pandas, NLTK and Scikit-learn libraries.
+• Performed tokenizing, stemming, stopwords removal and feature engineering using CountVectorizer.
+• Created a sentiment analysis model using machine learning classification algorithms that predicts whether a user liked a local business or not, based on their review on Yelp.
+• Performed analysis on businesses as well as user’s data and outlined the analysis using interactive visualizations to provide recommendations for improving businesses.
